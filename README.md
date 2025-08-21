@@ -1,4 +1,4 @@
-# 📜 Creepy Prank Viruses Project README
+# 📜 Spooky Prank Viruses Project README
 
 **Version 1.0** | **Last Updated: August 21, 2025** | **BGGG**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Project Overview
 
-Welcome to the **Creepy Prank Viruses Project**! 🎃 This is a collection of **20 harmless, humorous, and spooky prank programs** designed for Windows systems, created for fun. Each "virus" simulates creepy effects like glitching screens, melting icons, and eerie sounds, all while ensuring **no data loss or permanent system changes**. The project includes an **interactive launcher** (`launcher.py`) that allows you to run any or all of the 20 viruses concurrently, with a help system that provides full documentation and usage instructions. 
+Welcome to the **Spooky Prank Viruses Project**! 🎃 This is a collection of **20 harmless, humorous, and spooky prank programs** designed for Windows systems, created for fun. Each "virus" simulates creepy effects like glitching screens, melting icons, and eerie sounds, all while ensuring **no data loss or permanent system changes**. The project includes an **interactive launcher** (`launcher.py`) that allows you to run any or all of the 20 viruses concurrently, with a help system that provides full documentation and usage instructions. 
 
 The launcher supports simultaneous execution of multiple viruses, and each virus includes clear removal methods to ensure ease of use.
 
@@ -39,7 +39,7 @@ The launcher supports simultaneous execution of multiple viruses, and each virus
 
 ## 🎯 Project Goals
 
-The **Creepy Prank Viruses Project** aims to:
+The **Spooky Prank Viruses Project** aims to:
 - Provide a **fun and educational** way to explore Windows system manipulation using Python, with a focus on visual and audio effects. 🎨🔊
 - Create **20 distinct prank programs** that simulate spooky, virus-like behaviors without causing harm. 👻
 - Offer an **interactive launcher** to manage and run pranks concurrently, with a user-friendly GUI and detailed documentation. 🖥️
@@ -441,15 +441,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## 🙌 Acknowledgments
 
 - **Python Community**: For providing libraries like `tkinter`, `pynput`, `pywin32`, and `Pillow`. 🐍
-- **Ai Community**: xAi assisted DevOps
+- **Ai Community**: `xAi` assisted DevOps
 - **Windows APIs**: For enabling creative system manipulations in a safe manner. 🖥️
-- **You**: For experimenting with this fun project on your PC! 🎉
+- **You**: For experimenting with this fun project on `your PC`! 🎉
 
 ---
 
 ## 🌟 Final Notes
 
-The **Creepy Prank Viruses Project** is a playfulcollection, with **20 unique pranks**, a **user-friendly launcher**, and **comprehensive documentation**, it’s perfect for anyone looking for an interesting experience. Have fun testing the spooky effects, but keep an eye on performance and use the removal methods to keep things under control.
+The **Spooky Prank Viruses Project** is a playfulcollection, with **20 unique pranks**, a **user-friendly launcher**, and **comprehensive documentation**, it’s perfect for anyone looking for an interesting experience. Have fun testing the spooky effects, but keep an eye on performance and use the removal methods to keep things under control.
 
 **Happy Haunting!** 👻
 
